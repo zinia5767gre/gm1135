@@ -1,4 +1,4 @@
 <?php
-header("Location: https://music.youtube.com/tasteprofile");
+header("Location: https://www.colormakeupstudio.com/");
 die();
 ?>
