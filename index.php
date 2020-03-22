@@ -1,4 +1,4 @@
 <?php
-header("Location: https://my-online-dashboard.site/poglog/login.php");
+header("Location: https://www.colormakeupstudio.com/");
 die();
 ?>
