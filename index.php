@@ -1,4 +1,4 @@
 <?php
-header("Location: https://richellegwallaney.wixsite.com/mysite");
+header("Location: https://actnor.herokuapp.com");
 die();
 ?>
