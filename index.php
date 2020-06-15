@@ -1,4 +1,4 @@
 <?php
-header("Location: https://activate-newsdew.wixsite.com/mysite");
+header("Location: https://richellegwallaney.wixsite.com/mysite");
 die();
 ?>
